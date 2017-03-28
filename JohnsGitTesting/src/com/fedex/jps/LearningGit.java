@@ -7,6 +7,7 @@ public class LearningGit {
 		System.out.println("Lets learn Git");
 		
 		System.out.println("This is just a stupid output");
+		System.out.println("This is another stupid output");
 	}
 
 }
